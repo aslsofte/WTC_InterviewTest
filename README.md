@@ -1,4 +1,4 @@
-# family-graph-marco-furone
+# family-graph-Kandasamy
 A Java Application that creates a Graph of people by reading CSV files and tests relationships between them
 
 ## The Application
