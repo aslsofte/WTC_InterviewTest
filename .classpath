@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="src" path="src/test/java"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-beanutils-1.9.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-collections-3.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-lang3-3.12.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/commons-text-1.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/jar_files/opencsv-5.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Dhakshina/Downloads/junit.jar/junit.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

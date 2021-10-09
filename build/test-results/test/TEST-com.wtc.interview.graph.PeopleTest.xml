@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.wtc.interview.graph.PeopleTest" tests="3" skipped="0" failures="0" errors="0" timestamp="2021-10-09T00:17:59" hostname="LAPTOP-PJ5VFOB3" time="0.021">
+  <properties/>
+  <testcase name="testExtendedFamilySize" classname="com.wtc.interview.graph.PeopleTest" time="0.02"/>
+  <testcase name="testPeopleMapIsCorrectlyPopulated" classname="com.wtc.interview.graph.PeopleTest" time="0.001"/>
+  <testcase name="testPeopleRelationships" classname="com.wtc.interview.graph.PeopleTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
